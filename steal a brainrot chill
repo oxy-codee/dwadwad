@@ -11,7 +11,7 @@ local allowedPlaceIds = {
 }
 
 getgenv().TargetPetNames = {
-    "Graipuss Medussi",
+    "chimpanzini Bananini",
     "La Grande Combinasion", "Garama and Madundung", "Sammyni Spyderini",
     "Pot Hotspot",
     "Nuclearo Dinossauro",  
